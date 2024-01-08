@@ -1,4 +1,4 @@
-# NorenApi-java
+# ShoonyaApi-java
 
 JavaApi used to connect to NorenOMS
 ****
